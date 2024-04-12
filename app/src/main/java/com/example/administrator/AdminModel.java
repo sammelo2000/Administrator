@@ -3,6 +3,7 @@ package com.example.administrator;
 import android.widget.Button;
 
 public class AdminModel {
+    //hello
     String Authorname;
     String image;
     Button button;
